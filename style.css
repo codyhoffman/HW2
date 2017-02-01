@@ -21,23 +21,24 @@ body ul {
 
 #right {
     margin-right: 0px;
-    margin-bottom: 50%;
+    margin-bottom: 0%;
     float: right;
 }
 
-#left {
-    margin-left: 0;
-    margin-bottom: 50%;
+#pictures {
+    display: inline-block;
     float: left;
+    margin-bottom: 7%;
 }
 
 .pic {
-    border: solid 1px black;
-    background: white;
+    display: inline-block;
+    border: solid 1px lawngreen;
+    background: lawngreen;
     text-align:center;
-    width: 300px;
-    padding: 20px;
-    margin-top: 10px;
+    width: 320px;
+    padding: 0px;
+    margin-top: 0px;
     margin-bottom: 20px;
 }
 
