@@ -39,9 +39,12 @@ body ul {
     background: lawngreen;
     text-align:center;
     width: 320px;
-    padding: 0px;
-    margin-top: 0px;
+    padding: 5px;
+    padding-bottom: 20px;
+    margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px
 }
 
 #menu {
@@ -110,9 +113,11 @@ h2 {
 
 h3 {
     text-align: left;
-    margin-left: 15px;
     font-family: "Courier New";
 }
 
+#margLeft {
+    margin-left: 15px;
+}
 
 
